@@ -1,3 +1,4 @@
 
 New content in file1
 Conflict content
+New content for GitHub
